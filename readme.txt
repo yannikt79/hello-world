@@ -1,2 +1,3 @@
 Hello
 Wuzup
+Friday
